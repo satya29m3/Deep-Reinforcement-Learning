@@ -10,8 +10,6 @@
 
 #### SOCCER ENVIRONMENT
 
-After you have successfully completed the project, you might like to solve the more difficult **Soccer** environment.
-
 ![Soccer][image2]
 
 In this environment, the goal is to train a team of agents to play soccer.  
